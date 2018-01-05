@@ -1,9 +1,18 @@
 h3 {
-  text-align: center;
+  text-decoration: underline;
+  padding-left: 5%;
+  padding-right: 5%;
 }
 
 ol {
   font-size: 18px;
+}
+
+img {
+  max-width: 255px;
+  max-height: 200px;
+  min-width: 255px;
+  min-height: 200px;
 }
 
 .main-heading {
@@ -21,14 +30,14 @@ ol {
   margin-left: 4%;
 }
 
-.images {
-  margin-left: 15%;
-}
-
 .paragraph-text {
   padding-left: 5%;
   padding-right: 5%;
   font-size: 16px;
+}
+
+.images {
+  padding-left: 15%;
 }
 
 #panel-one {

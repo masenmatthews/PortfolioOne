@@ -2,6 +2,10 @@ h3 {
   text-align: center;
 }
 
+ol {
+  font-size: 18px;
+}
+
 .main-heading {
   text-align: center;
   font-family: sans-serif;
@@ -18,7 +22,13 @@ h3 {
 }
 
 .images {
-  margin-left: 15%
+  margin-left: 15%;
+}
+
+.paragraph-text {
+  padding-left: 5%;
+  padding-right: 5%;
+  font-size: 16px;
 }
 
 #panel-one {

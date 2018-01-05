@@ -3,6 +3,24 @@
   font-family: sans-serif;
 }
 
+.sidebar {
+  float: left;
+  width: 15%;
+}
+
+#panel-one {
+  margin-left: 15%;
+  margin-right: 2%;
+}
+
+#panel-two {
+  margin-right: 5%;
+}
+
+#panel-three {
+  margin-left: 20%;
+}
+
 #top-box {
   text-align: center;
 }
